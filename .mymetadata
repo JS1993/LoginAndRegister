@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Day10_LoginAndRegister"
+  id="myeclipse.1483154641124"
+  context-root="/Day10_LoginAndRegister"
+  j2ee-spec="6.0"
+  archive="Day10_LoginAndRegister.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
